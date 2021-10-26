@@ -1,2 +1,1 @@
-# EZ-pseudorandom
-pseudorandom by js
+# สุ่มแบบง่ายๆ
